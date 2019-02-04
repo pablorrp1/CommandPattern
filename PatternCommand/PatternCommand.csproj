@@ -46,6 +46,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Clases Externas\Fan.cs" />
+    <Compile Include="Clases Externas\Light.cs" />
+    <Compile Include="Clases Patron\Command.cs" />
+    <Compile Include="Clases Patron\FanOffCommand.cs" />
+    <Compile Include="Clases Patron\LightOffCommand.cs" />
+    <Compile Include="Clases Patron\FanOnCommand.cs" />
+    <Compile Include="Clases Patron\LightOnCommand.cs" />
+    <Compile Include="Clases Patron\NoCommand.cs" />
+    <Compile Include="Clases Patron\RemoteControl.cs" />
+    <Compile Include="Clases Patron\SimpleRemoteControl.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -54,6 +64,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -76,5 +89,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
