@@ -6,16 +6,16 @@ using System.Threading.Tasks;
 
 namespace PatternCommand.Clases_Externas
 {
-    class Fan
+    class Light
     {
         public string on()
         {
-            return "Ventilador encendido";
+            return "Luz encendida";
         }
 
         public string off()
         {
-            return "Ventilador apagado";
+            return "Luz apagada";
         }
     }
 }

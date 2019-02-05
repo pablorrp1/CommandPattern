@@ -1,0 +1,10 @@
+C:\Users\Pablo R\Documents\Repositorios\PatternCommand\PatternCommandUndo\obj\Release\PatternCommandUndo.csprojAssemblyReference.cache
+C:\Users\Pablo R\Documents\Repositorios\PatternCommand\PatternCommandUndo\obj\Release\PatternCommand.Form1.resources
+C:\Users\Pablo R\Documents\Repositorios\PatternCommand\PatternCommandUndo\obj\Release\PatternCommand.Properties.Resources.resources
+C:\Users\Pablo R\Documents\Repositorios\PatternCommand\PatternCommandUndo\obj\Release\PatternCommandUndo.csproj.GenerateResource.cache
+C:\Users\Pablo R\Documents\Repositorios\PatternCommand\PatternCommandUndo\obj\Release\PatternCommandUndo.csproj.CoreCompileInputs.cache
+C:\Users\Pablo R\Documents\Repositorios\PatternCommand\PatternCommandUndo\bin\Release\PatternCommand.exe.config
+C:\Users\Pablo R\Documents\Repositorios\PatternCommand\PatternCommandUndo\bin\Release\PatternCommand.exe
+C:\Users\Pablo R\Documents\Repositorios\PatternCommand\PatternCommandUndo\bin\Release\PatternCommand.pdb
+C:\Users\Pablo R\Documents\Repositorios\PatternCommand\PatternCommandUndo\obj\Release\PatternCommand.exe
+C:\Users\Pablo R\Documents\Repositorios\PatternCommand\PatternCommandUndo\obj\Release\PatternCommand.pdb

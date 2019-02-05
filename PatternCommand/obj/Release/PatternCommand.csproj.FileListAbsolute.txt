@@ -1,0 +1,10 @@
+C:\Users\Pablo R\Documents\Repositorios\PatternCommand\PatternCommand\bin\Release\PatternCommand.exe.config
+C:\Users\Pablo R\Documents\Repositorios\PatternCommand\PatternCommand\bin\Release\PatternCommand.exe
+C:\Users\Pablo R\Documents\Repositorios\PatternCommand\PatternCommand\bin\Release\PatternCommand.pdb
+C:\Users\Pablo R\Documents\Repositorios\PatternCommand\PatternCommand\obj\Release\PatternCommand.csprojAssemblyReference.cache
+C:\Users\Pablo R\Documents\Repositorios\PatternCommand\PatternCommand\obj\Release\PatternCommand.Form1.resources
+C:\Users\Pablo R\Documents\Repositorios\PatternCommand\PatternCommand\obj\Release\PatternCommand.Properties.Resources.resources
+C:\Users\Pablo R\Documents\Repositorios\PatternCommand\PatternCommand\obj\Release\PatternCommand.csproj.GenerateResource.cache
+C:\Users\Pablo R\Documents\Repositorios\PatternCommand\PatternCommand\obj\Release\PatternCommand.csproj.CoreCompileInputs.cache
+C:\Users\Pablo R\Documents\Repositorios\PatternCommand\PatternCommand\obj\Release\PatternCommand.exe
+C:\Users\Pablo R\Documents\Repositorios\PatternCommand\PatternCommand\obj\Release\PatternCommand.pdb

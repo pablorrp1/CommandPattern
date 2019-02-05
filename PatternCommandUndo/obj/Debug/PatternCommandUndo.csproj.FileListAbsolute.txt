@@ -1,0 +1,10 @@
+C:\Users\Pablo R\Documents\Repositorios\PatternCommand\PatternCommandUndo\bin\Debug\PatternCommand.exe.config
+C:\Users\Pablo R\Documents\Repositorios\PatternCommand\PatternCommandUndo\bin\Debug\PatternCommand.exe
+C:\Users\Pablo R\Documents\Repositorios\PatternCommand\PatternCommandUndo\bin\Debug\PatternCommand.pdb
+C:\Users\Pablo R\Documents\Repositorios\PatternCommand\PatternCommandUndo\obj\Debug\PatternCommand.Form1.resources
+C:\Users\Pablo R\Documents\Repositorios\PatternCommand\PatternCommandUndo\obj\Debug\PatternCommand.Properties.Resources.resources
+C:\Users\Pablo R\Documents\Repositorios\PatternCommand\PatternCommandUndo\obj\Debug\PatternCommandUndo.csproj.GenerateResource.cache
+C:\Users\Pablo R\Documents\Repositorios\PatternCommand\PatternCommandUndo\obj\Debug\PatternCommandUndo.csproj.CoreCompileInputs.cache
+C:\Users\Pablo R\Documents\Repositorios\PatternCommand\PatternCommandUndo\obj\Debug\PatternCommand.exe
+C:\Users\Pablo R\Documents\Repositorios\PatternCommand\PatternCommandUndo\obj\Debug\PatternCommand.pdb
+C:\Users\Pablo R\Documents\Repositorios\PatternCommand\PatternCommandUndo\obj\Debug\PatternCommandUndo.csprojAssemblyReference.cache
